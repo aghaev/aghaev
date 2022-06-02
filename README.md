@@ -2,9 +2,10 @@
 
 ### iOS developer
 
-👀  I’m currently sharpening my iOS development skills
 
-🌱  I’m currently learning Swift & SwiftUI
+👀  I’m interested in creating mobile apps
+
+🌱  I’m currently sharpening my iOS development skills
 
 📫  Feel free to reach me:
 
