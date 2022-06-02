@@ -2,11 +2,11 @@
 
 ### iOS developer
 
-👀 I’m interested in creating mobile apps
+👀  I’m currently sharpening my iOS development skills
 
-🌱 I’m currently learning Swift & SwiftUI
+🌱  I’m currently learning Swift & SwiftUI
 
-📫 Feel free to reach me:
+📫  Feel free to reach me:
 
 ![Telegram](https://img.shields.io/badge/@a_aydn-blue?style=flat&logo=Telegram&logoColor=white&color=blue&link=https://t.me/a_aydn)
 ![Twitter: @vento_az](https://img.shields.io/badge/-@vento_az-blue?tyle=flat&logo=Twitter&logoColor=white&color=blue&link=https://twitter.com/vento_az)
