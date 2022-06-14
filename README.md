@@ -9,10 +9,10 @@
 
 📫  Feel free to reach me:
 
-![Telegram](https://img.shields.io/badge/@a_aydn-blue?style=flat&logo=Telegram&logoColor=white&color=blue&link=https://t.me/a_aydn)
-![Twitter: @vento_az](https://img.shields.io/badge/-@vento_az-blue?tyle=flat&logo=Twitter&logoColor=white&color=blue&link=https://twitter.com/vento_az)
-![Linkedin: aaghayev](https://img.shields.io/badge/-aaghayev-blue?style=flat&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/aaghayev/)
-![Email](https://img.shields.io/badge/aydin.aghayev@gmail.com%20-blue&?style=flat&color=blue&link=mailto:aydin.aghayev@gmail.com)
+[![Telegram](https://img.shields.io/badge/@a_aydn-blue?style=flat&logo=Telegram&logoColor=white&color=blue&link=https://t.me/a_aydn)](https://t.me/a_aydn)
+[![Twitter: @vento_az](https://img.shields.io/badge/-@vento_az-blue?tyle=flat&logo=Twitter&logoColor=white&color=blue&link=https://twitter.com/vento_az)](https://twitter.com/vento_az)
+[![Linkedin: aaghayev](https://img.shields.io/badge/-aaghayev-blue?style=flat&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/aaghayev/)](https://www.linkedin.com/in/aaghayev)
+[![Email](https://img.shields.io/badge/aydin.aghayev@gmail.com%20-blue&?style=flat&color=blue&link=mailto:aydin.aghayev@gmail.com)](mailto:dr.morozov.dev@gmail.com?)
 
 
 <!---
