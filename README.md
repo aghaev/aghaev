@@ -9,7 +9,7 @@
 
 📫  Feel free to reach me:
 
-[![Telegram](https://img.shields.io/badge/@a_aydn-blue?style=flat&logo=Telegram&logoColor=white&color=blue)](https://t.me/a_aydn)
+[![Telegram](https://img.shields.io/badge/@aghay3v-blue?style=flat&logo=Telegram&logoColor=white&color=blue)](https://t.me/aghay3v)
 [![Twitter: @vento_az](https://img.shields.io/badge/-@vento_az-blue?tyle=flat&logo=Twitter&logoColor=white&color=blue)](https://twitter.com/vento_az)
 [![Linkedin: aaghayev](https://img.shields.io/badge/-aaghayev-blue?style=flat&logo=Linkedin&color=blue&logoColor=white)](https://www.linkedin.com/in/aaghayev)
 [![Email](https://img.shields.io/badge/aydin.aghayev@gmail.com%20-blue&?style=flat&color=blue)](mailto:aydin.aghayev@gmail.com)
