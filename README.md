@@ -4,7 +4,7 @@
 
 #### As an iOS developer, I am passionate about creating high-quality applications that solve complex problems and exceed user expectations. With a strong foundation in technical problem-solving and attention to detail, I am dedicated to delivering exceptional results for every project I work on. I am committed to staying at the forefront of the latest industry trends and techniques, and I am always looking for new opportunities to grow and develop my skills.
 * 🌍  I'm based in Azerbaijan, Baku * 
-* ✉️  You can contact me at with
+* ✉️  You can contact with me at 
 
 [![Telegram](https://img.shields.io/badge/@aghay3v-blue?style=flat&logo=Telegram&logoColor=white&color=blue)](https://t.me/aghay3v)
 [![Twitter: @vento_az](https://img.shields.io/badge/-@vento_az-blue?tyle=flat&logo=Twitter&logoColor=white&color=blue)](https://twitter.com/vento_az)
